@@ -1,4 +1,5 @@
 {
+  "homepage": "https://gpriya67.github.io/SYED-PROJECT",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -43,4 +44,5 @@
   "devDependencies": {
     "tailwindcss": "^3.4.19"
   }
+  
 }
